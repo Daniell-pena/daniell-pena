@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Daniel Pena</h1>
   <p>
-    <b>Full-Stack Developer</b> focused on <b>Python, AI/LLM integrations, and quantitative systems</b>.<br/>
+    <b>Full-Stack Developer</b> — <b>PHP & e-commerce</b> by day, <b>Python, AI/LLM integrations, and quant systems</b> by night.<br/>
     Building production tools with the Anthropic SDK, FastAPI, and React. Based in Miami, FL.
   </p>
   <a href="https://www.linkedin.com/in/daniel-pena-90834b255/">
@@ -13,9 +13,10 @@
 
 <h2 align="center">🚀 Currently Building</h2>
 
-- AI agents and LLM integrations using the **Anthropic SDK** (Claude)
-- Quantitative trading systems in Python — walk-forward validation, ML meta-labeling, vectorized backtests
-- Full-stack apps: **React + FastAPI + Postgres**
+- **E-commerce platforms** with PHP (current day job)
+- **AI agents and LLM integrations** using the Anthropic SDK (Claude)
+- **Quantitative trading systems** in Python — walk-forward validation, ML meta-labeling, vectorized backtests
+- **Full-stack apps:** React + FastAPI + Postgres
 - Open to **OSS bounties** on Python / AI / data tooling — feel free to ping
 
 ---
@@ -27,6 +28,7 @@
 **Languages**
 
 <img src="https://img.shields.io/badge/Python-%233673A1.svg?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
